@@ -10,7 +10,7 @@ predictor_file_name = 'shape_predictor_68_face_landmarks.dat'
 predictor_full_file_name = predictor_file_path + predictor_file_name
 
 video_file_path = 'C:/Users/Andrew/PycharmProjects/paresis_detection_data/videos/'
-video_file_name = '20180305_Трухановский.mp4'
+video_file_name = '20170405_Kudrin.mov'
 video_full_file_name = video_file_path + video_file_name
 video = imageio.get_reader(video_full_file_name)
 
